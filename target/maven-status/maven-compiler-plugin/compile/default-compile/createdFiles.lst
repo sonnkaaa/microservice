@@ -1,0 +1,5 @@
+com/example/RestServiceApplication.class
+com/example/controller/ItemController.class
+com/example/exception/GlobalExceptionHandler.class
+com/example/model/Item.class
+com/example/repository/ItemRepository.class
